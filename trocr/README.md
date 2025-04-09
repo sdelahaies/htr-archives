@@ -16,7 +16,8 @@ uv pip install jiwer
 
 This repository contains the following notebooks:
 
-
-| `finetune_trocr_catmus.ipynb`               | Notebook based on the Niels Rodge's original Tutorial for finetuning trocr. |  
-| `finetune_trocr_lora_generic.ipynb`         | Lora finetuning for trocr. |
-| `dpo_trocr_custom.ipynb`             | A pytorch reference free Direct preference optimization implementation for trocr. |
+| Notebook                        | Description                                                                                   |  
+|--------------------------------------|-----------------------------------------------------------------------------------------------|  
+| `finetune_trocr_catmus.ipynb`               | Notebook based on the Niels Rodge's original Tutorial for finetuning trocr.       |  
+| `finetune_trocr_lora_generic.ipynb`         | Lora finetuning for trocr.                                                        |
+| `dpo_trocr_custom.ipynb`                    | A pytorch reference free Direct preference optimization implementation for trocr. |

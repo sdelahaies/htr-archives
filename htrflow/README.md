@@ -2,7 +2,7 @@
 
 ## htrflow
 
-Once the models are trained, using htrflow is pretty straightforward and well exmplained in the documentation available at [https://ai-riksarkivet.github.io/htrflow/latest/](https://ai-riksarkivet.github.io/htrflow/latest/)
+Once the models are trained, using htrflow is pretty straightforward and well explained in the documentation available at [https://ai-riksarkivet.github.io/htrflow/latest/](https://ai-riksarkivet.github.io/htrflow/latest/)
 
 ## Set up environment
 
