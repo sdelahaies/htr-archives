@@ -1,0 +1,6 @@
+.venv
+datasets
+models
+outputs
+*.pt
+coco_dataset.json

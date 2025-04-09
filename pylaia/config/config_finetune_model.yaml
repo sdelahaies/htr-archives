@@ -1,0 +1,20 @@
+syms: ../models/pylaia-himanis/syms.txt
+img_dirs:
+  - ../data/images/
+tr_txt_table: ../data/text/train.txt
+va_txt_table: ../data/text/val.txt
+common:
+  experiment_dirname: finetuning-exp
+logging:
+  filepath: pylaia_training.log
+data:
+  batch_size: 16
+scheduler:
+  active: true
+train:
+  augment_training: true
+  early_stopping_patience: 80
+trainer:
+  auto_select_gpus: true
+  gpus: 1
+  max_epochs: 10

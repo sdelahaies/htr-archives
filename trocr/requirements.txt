@@ -1,0 +1,10 @@
+transformers==4.45
+accelerate
+datasets 
+pillow 
+torch 
+# jiwer 
+python-dotenv 
+evaluate
+ipykernel
+tensorboard

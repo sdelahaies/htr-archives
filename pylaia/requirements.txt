@@ -1,0 +1,4 @@
+python-dotenv
+datasets
+pillow
+ipykernel

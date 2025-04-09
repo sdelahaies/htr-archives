@@ -1,0 +1,17 @@
+syms: ../models/pylaia-himanis/syms.txt
+img_list: ../img_list/img_list.txt
+img_dirs:
+  - ../data/eval/
+common:
+  experiment_dirname: ../models/pylaia-himanis/
+  model_filename: ../models/pylaia-himanis/model
+decode:
+  join_string: ""
+  convert_spaces: true
+  use_language_model: true
+  language_model_path: ../models/arpa/typewriter.arpa.gz
+  tokens_path: ../models/pylaia-himanis/tokens.txt
+  lexicon_path: ../models/pylaia-himanis/lexicon.txt
+  language_model_weight: 1.5
+trainer:
+  gpus: 1

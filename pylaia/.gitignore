@@ -1,0 +1,7 @@
+venv/
+models/pylaia*
+pylaia
+images/
+data
+model
+img_list.txt
