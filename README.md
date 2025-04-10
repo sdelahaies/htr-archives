@@ -2,6 +2,8 @@
 
 This repository contains a collection of notebooks for HTR (Handwritten Text Recognition) including model training and inference with YOLOv9, trocr, pylaia, and htrflow. These models and tools form the basis of the transciptions shown in the NextJS/React/Supabase archive viewer [archives-app](https://archives-app.vercel.app).
 
+![htr-condat](assets/htr-condat.png)
+
 ## YOLOv9
 
 YOLOv9 is a state-of-the-art object detection model that incorporates the latest techniques in deep learning and computer vision to achieve high accuracy and efficiency in real-time object detection tasks and segmentation. The model is designed to be lightweight and fast, making it suitable for deployment on various platforms.
