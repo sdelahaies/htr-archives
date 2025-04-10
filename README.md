@@ -1,6 +1,6 @@
 # htr-archives
 
-This repository contains a collection of notebooks for HTR (Handwritten Text Recognition) including model training and inference with YOLOv9, trocr, pylaia, and htrflow. These models and tools form the basis of the transciptions shown in the NextJS/React/Supabase archive viewer [archives-app](https://archives-app.vercel.app).
+This repository contains a collection of notebooks for HTR (Handwritten Text Recognition) including model training and inference with YOLOv9, trocr, pylaia, and htrflow. These models and tools form the basis of the transciptions shown in the NextJS/React/Supabase archive viewer: [archives-app](https://archives-app.vercel.app) demo, [archives-app](https://github.com/sdelahaies/archives-app) source code.
 
 ![htr-condat](assets/htr-condat.png)
 
